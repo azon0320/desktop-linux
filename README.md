@@ -1,2 +1,2 @@
-dormao ubuntu desktop startups
+dormao ubuntu desktop
 
